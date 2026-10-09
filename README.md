@@ -38,7 +38,7 @@
 | [**WebSite-Builder**](https://github.com/paunryto-ui/WebSite-Builder) | bikin website tanpa pusing |
 | [**apkbuilder**](https://github.com/paunryto-ui/apkbuilder) | dari HTML jadi APK |
 
-<sub>repo yang namanya `dfdfd` itu... jangan ditanya ya</sub>
+
 
 <br>
 

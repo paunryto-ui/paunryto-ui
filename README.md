@@ -1,117 +1,144 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B45,45:8E6BBE,100:F7A8C8&height=190&section=header&text=Hey,%20I'm%20Veroo!&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Small%20tools%20%7C%20Web%20experiments%20%7C%20Games&descAlignY=60&descSize=15" alt="Pastel anime-inspired profile banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17131F,50:51406F,100:8E6BBE&height=200&section=header&text=WIRA&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=Developer%20%7C%20Game%20Creator%20%7C%20Curious%20Mind&descAlignY=62&descSize=15" width="100%" alt="Wira dark anime developer banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=18&pause=1500&color=F7A8C8&center=true&vCenter=true&width=520&height=40&lines=Making+things+one+project+at+a+time;Learning+by+building+real+stuff;Powered+by+curiosity+and+cartoon+cats" alt="Animated introduction">
+<p>
+Building useful tools, experimenting with code, and turning ideas into real projects.
+</p>
 
-<br>
-
-<a href="https://github.com/paunryto-ui?tab=repositories"><img src="https://img.shields.io/badge/Explore-my%20repositories-8E6BBE?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"></a>
-<a href="https://github.com/paunryto-ui"><img src="https://img.shields.io/badge/Theme-pastel%20arcade-F7A8C8?style=for-the-badge&logo=probot&logoColor=white" alt="Pastel arcade theme"></a>
+<a href="https://github.com/paunryto-ui?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-8E6BBE?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
+</a>
+<img src="https://img.shields.io/badge/Style-Dark%20Arcade-292238?style=for-the-badge" alt="Dark arcade style" />
+<img src="https://img.shields.io/badge/Status-Always%20Learning-6CCFC0?style=for-the-badge&logoColor=white" alt="Always learning" />
 
 </div>
 
 ---
 
+## About Me
+
 <table>
 <tr>
-<td width="100%" bgcolor="#21182F">
+<td width="60%" valign="top">
 
-### 🌸 A little about me
+### Hey, I'm Wira.
 
-I'm a developer who enjoys turning ideas into small, working projects. I experiment with web apps, desktop tools, automation, and games — learning something new with each build.
+I'm a developer who enjoys building small tools, exploring web technologies, and experimenting with game ideas. I like learning by making things, testing what works, and improving each project along the way.
 
-- 🎮 **Game development:** Unity and gameplay experiments
-- 💻 **Web development:** websites, interfaces, and small apps
-- 🛠️ **Desktop tools:** utilities and automation experiments
-- ✨ **My approach:** build it, test it, improve it
+- Game development and gameplay experiments
+- Websites and interactive applications
+- Desktop utilities and automation
+- Learning new technologies through real projects
+
+</td>
+<td width="40%" valign="top" bgcolor="#211B2B">
+
+### Current Focus
+
+**Building**
+<br/>Apps, tools, and games
+
+**Exploring**
+<br/>New ideas and technologies
+
+**Improving**
+<br/>One project at a time
 
 </td>
 </tr>
 </table>
 
-## 🍡 Projects on my desk
+## Selected Projects
 
 <table>
 <tr>
-<td width="50%" valign="top" bgcolor="#21182F">
+<td width="50%" valign="top" bgcolor="#211B2B">
 
-### 💬 [Chat-Ai](https://github.com/paunryto-ui/Chat-Ai)
+### Chat-Ai
 
-An experimental chat app exploring an AI assistant experience.
+An experimental chat application exploring AI assistant interactions.
+
+[View project ↗](https://github.com/paunryto-ui/Chat-Ai)
 
 </td>
-<td width="50%" valign="top" bgcolor="#21182F">
+<td width="50%" valign="top" bgcolor="#211B2B">
 
-### 🧪 [SaaS-Ai](https://github.com/paunryto-ui/SaaS-Ai)
+### SaaS-Ai
 
-A playground for ideas around AI-powered online services.
+A playground for experimenting with AI-powered online services.
+
+[View project ↗](https://github.com/paunryto-ui/SaaS-Ai)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" bgcolor="#21182F">
+<td width="50%" valign="top" bgcolor="#211B2B">
 
-### 🧱 [WebSite-Builder](https://github.com/paunryto-ui/WebSite-Builder)
+### WebSite-Builder
 
-A project focused on making website creation feel more approachable.
+A project focused on making website creation simpler and more accessible.
+
+[View project ↗](https://github.com/paunryto-ui/WebSite-Builder)
 
 </td>
-<td width="50%" valign="top" bgcolor="#21182F">
+<td width="50%" valign="top" bgcolor="#211B2B">
 
-### 📦 [apkbuilder](https://github.com/paunryto-ui/apkbuilder)
+### apkbuilder
 
-An experiment with packaging HTML projects into Android apps.
+An experiment in packaging HTML projects into Android applications.
+
+[View project ↗](https://github.com/paunryto-ui/apkbuilder)
 
 </td>
 </tr>
 </table>
 
-## 🧰 My toolbox
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,unity,electron,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, C sharp, Unity, Electron, Git, GitHub, and VS Code">
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,unity,electron,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, C sharp, Unity, Electron, Git, GitHub, and VS Code" />
 
-<br><br>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/HTML-EA7186?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-8E6BBE?style=flat-square&logo=css3&logoColor=white" alt="CSS">
-<img src="https://img.shields.io/badge/JavaScript-F4C96B?style=flat-square&logo=javascript&logoColor=292238" alt="JavaScript">
-<img src="https://img.shields.io/badge/C%23-9B87D5?style=flat-square&logo=csharp&logoColor=white" alt="C sharp">
-<img src="https://img.shields.io/badge/Unity-51465F?style=flat-square&logo=unity&logoColor=white" alt="Unity">
-<img src="https://img.shields.io/badge/Electron-6CCFC0?style=flat-square&logo=electron&logoColor=17202A" alt="Electron">
+<img src="https://img.shields.io/badge/HTML-EA7186?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-8E6BBE?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-F4C96B?style=flat-square&logo=javascript&logoColor=292238" alt="JavaScript" />
+<img src="https://img.shields.io/badge/C%23-9B87D5?style=flat-square&logo=csharp&logoColor=white" alt="C sharp" />
+<img src="https://img.shields.io/badge/Unity-51465F?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://img.shields.io/badge/Electron-6CCFC0?style=flat-square&logo=electron&logoColor=17202A" alt="Electron" />
 
 </div>
 
-## 📊 GitHub stats
+## GitHub Overview
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=paunryto-ui&show_icons=true&hide_border=true&bg_color=21182F&title_color=F7A8C8&text_color=F3EAFB&icon_color=8E6BBE" alt="GitHub account statistics">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=paunryto-ui&show_icons=true&hide_border=true&bg_color=211B2B&title_color=8E6BBE&text_color=F3EAFB&icon_color=6CCFC0" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paunryto-ui&layout=compact&hide_border=true&bg_color=21182F&title_color=F7A8C8&text_color=F3EAFB" alt="Most-used languages in public repositories">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paunryto-ui&layout=compact&hide_border=true&bg_color=211B2B&title_color=8E6BBE&text_color=F3EAFB" alt="Most-used programming languages" />
 
 </div>
 
-> Stats are provided by an external service, so they may occasionally load slowly or be temporarily unavailable.
+<p align="center">
+<sub>GitHub stats are provided by an external service and may occasionally load slowly.</sub>
+</p>
 
-## 💌 Say hello
+## Contact
 
-<table>
-<tr>
-<td bgcolor="#21182F">
-
-Have feedback, found a bug, or want to discuss one of my projects? Open an issue in the relevant repository. Clear, constructive feedback is always welcome.
-
-</td>
-</tr>
-</table>
+Have an idea, found a bug, or want to talk about a project? Open an issue in the relevant repository. Clear, constructive feedback is always welcome.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7A8C8,50:8E6BBE,100:2D1B45&height=100&section=footer" alt="Pastel footer banner">
+<a href="https://github.com/paunryto-ui">
+<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-8E6BBE?style=for-the-badge&logo=github&logoColor=white" alt="Visit Wira's GitHub profile" />
+</a>
 
-<sub>Built with curiosity, lots of experiments, and a soft spot for cartoon cats.</sub>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E6BBE,50:51406F,100:17131F&height=100&section=footer" width="100%" alt="Dark purple footer banner" />
+
+<sub>Built with curiosity, code, and a little late-night energy.</sub>
 
 </div>

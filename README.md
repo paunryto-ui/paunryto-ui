@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Veroo! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f431/512.gif" width="30" alt="Cat">
+# Hey, I'm Wira! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f431/512.gif" width="30" alt="Cat">
 
 **I build small tools, web experiments, and games.**
 

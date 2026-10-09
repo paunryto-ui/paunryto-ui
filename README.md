@@ -53,7 +53,10 @@ I like making practical software, experimenting with ideas, and learning by buil
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/output/github-snake-dark.svg" alt="A snake animation following my GitHub contribution graph">
+<img
+  src="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/output/github-snake-dark.svg"
+  alt="GitHub contribution snake"
+/>
 
 </div>
 

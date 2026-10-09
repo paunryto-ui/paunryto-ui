@@ -49,6 +49,7 @@ I like making practical software, experimenting with ideas, and learning by buil
 
 </div>
 
+
 ## Contribution trail
 
 <div align="center">
@@ -56,6 +57,7 @@ I like making practical software, experimenting with ideas, and learning by buil
 <img
   src="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/output/github-snake-dark.svg"
   alt="GitHub contribution snake"
+  width="100%"
 />
 
 </div>

@@ -29,10 +29,10 @@ Hey, I'm Wira. I enjoy building software, creating games, and turning ideas into
 
 I learn by experimenting, solving problems, and improving things along the way.
 
-- **Web development** — websites, interfaces, and web applications
-- **Game development** — gameplay systems, interactive worlds, and prototypes
-- **Tools and utilities** — desktop applications and automation experiments
-- **Current focus** — making better projects and exploring new technologies
+- **Web development:** websites, interfaces, and web applications
+- **Game development:** gameplay systems, interactive worlds, and prototypes
+- **Tools and utilities:** desktop applications and automation experiments
+- **Current focus:** making better projects and exploring new technologies
 
 I believe the best way to learn is to build something, figure out what breaks, and make it better.
 
@@ -48,7 +48,7 @@ I believe the best way to learn is to build something, figure out what breaks, a
 
 An experimental chat application exploring an AI assistant experience.
 
-[View repository →](https://github.com/paunryto-ui/Chat-Ai)
+[View repository](https://github.com/paunryto-ui/Chat-Ai)
 
 </td>
 <td width="50%" valign="top">
@@ -57,7 +57,7 @@ An experimental chat application exploring an AI assistant experience.
 
 A project exploring ideas for AI-powered online services.
 
-[View repository →](https://github.com/paunryto-ui/SaaS-Ai)
+[View repository](https://github.com/paunryto-ui/SaaS-Ai)
 
 </td>
 </tr>
@@ -68,7 +68,7 @@ A project exploring ideas for AI-powered online services.
 
 A project focused on making website creation more approachable.
 
-[View repository →](https://github.com/paunryto-ui/WebSite-Builder)
+[View repository](https://github.com/paunryto-ui/WebSite-Builder)
 
 </td>
 <td width="50%" valign="top">
@@ -77,7 +77,7 @@ A project focused on making website creation more approachable.
 
 An experiment in packaging HTML projects as Android applications.
 
-[View repository →](https://github.com/paunryto-ui/apkbuilder)
+[View repository](https://github.com/paunryto-ui/apkbuilder)
 
 </td>
 </tr>
@@ -119,7 +119,7 @@ An experiment in packaging HTML projects as Android applications.
 
 <div align="center">
 
-### 01 — Loading Huh?
+### 01. Loading Huh?
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="340" alt="Loading huh">
 
@@ -127,7 +127,7 @@ An experiment in packaging HTML projects as Android applications.
 
 <br>
 
-### 02 — Client vs. Designer
+### 02. Client vs. Designer
 
 <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="340" alt="Client vs Designer">
 
@@ -141,7 +141,7 @@ An experiment in packaging HTML projects as Android applications.
 
 <br>
 
-### 03 — Back to Work
+### 03. Back to Work
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/58e30265-7dc2-4977-83ab-66d4d1fa6ec3" width="340" alt="Back to Work">
 
@@ -158,7 +158,7 @@ An experiment in packaging HTML projects as Android applications.
 
 <br>
 
-<sub>Animated icons only — no external profile links.</sub>
+<sub>Animated icons only. No external profile links.</sub>
 
 </div>
 

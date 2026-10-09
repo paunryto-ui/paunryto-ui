@@ -149,19 +149,6 @@ An experiment in packaging HTML projects as Android applications.
 
 </div>
 
-## Animated Social Icons
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="80" alt="Animated Discord logo">
-<img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="80" alt="Animated social media icon">
-
-<br>
-
-<sub>Animated icons only. No external profile links.</sub>
-
-</div>
-
 ## GitHub Stats
 
 <div align="center">
@@ -172,7 +159,7 @@ An experiment in packaging HTML projects as Android applications.
 
 </div>
 
-<sub>Statistics are provided by an external service and may occasionally be unavailable.</sub>
+<sub>Statistics may occasionally be unavailable if the external service is down.</sub>
 
 ## Contribution Trail
 
@@ -181,21 +168,13 @@ An experiment in packaging HTML projects as Android applications.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/output/github-snake.svg">
-  <img alt="Snake animation following my GitHub contribution graph" src="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/output/github-snake.svg">
 </picture>
 
 </div>
 
----
-
-## Say Hello
-
-Have feedback, found a bug, or want to discuss one of my projects? Open an issue in the relevant repository.
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21182F,50:8E6BBE,100:F7A8C8&height=100&section=footer" width="100%" alt="Pastel purple and pink footer">
-
-<sub>Built with curiosity, experiments, and a soft spot for cartoon cats.</sub>
+<img src="./footer.svg" width="100%" alt="Custom profile footer">
 
 </div>

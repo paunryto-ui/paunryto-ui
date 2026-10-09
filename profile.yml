@@ -1,53 +1,29 @@
-name: update-profile
+name: Update profile animations
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "17 */6 * * *"
-  workflow_dispatch:
   push:
-    branches: [main]
+    branches:
+      - main
     paths:
       - ".github/workflows/profile.yml"
 
 permissions:
   contents: write
 
-# dijalankan berurutan supaya commit antar job tidak tabrakan
 concurrency:
-  group: update-profile
+  group: profile-animations
   cancel-in-progress: false
 
 jobs:
-  pet:
-    name: kucing pixel (YourTomo)
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: prsdx/github-pet@v1
-        with:
-          username: paunryto-ui
-          timezone-offset-minutes: "420" # WIB = UTC+7
-          display-name: Veroo
-          pet-name: mochi
-
-  cards:
-    name: kartu statistik
-    needs: pet
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-
   snake:
-    name: snake makan kontribusi
-    needs: cards
+    name: Generate contribution animation
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -56,7 +32,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Publish animation files
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist

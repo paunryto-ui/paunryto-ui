@@ -1,144 +1,88 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17131F,50:51406F,100:8E6BBE&height=200&section=header&text=WIRA&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=Developer%20%7C%20Game%20Creator%20%7C%20Curious%20Mind&descAlignY=62&descSize=15" width="100%" alt="Wira dark anime developer banner" />
-
-<p>
-Building useful tools, experimenting with code, and turning ideas into real projects.
-</p>
-
-<a href="https://github.com/paunryto-ui?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-8E6BBE?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
-</a>
-<img src="https://img.shields.io/badge/Style-Dark%20Arcade-292238?style=for-the-badge" alt="Dark arcade style" />
-<img src="https://img.shields.io/badge/Status-Always%20Learning-6CCFC0?style=for-the-badge&logoColor=white" alt="Always learning" />
-
-</div>
-
----
-
-## About Me
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### Hey, I'm Wira.
-
-I'm a developer who enjoys building small tools, exploring web technologies, and experimenting with game ideas. I like learning by making things, testing what works, and improving each project along the way.
-
-- Game development and gameplay experiments
-- Websites and interactive applications
-- Desktop utilities and automation
-- Learning new technologies through real projects
-
-</td>
-<td width="40%" valign="top" bgcolor="#211B2B">
-
-### Current Focus
-
-**Building**
-<br/>Apps, tools, and games
-
-**Exploring**
-<br/>New ideas and technologies
-
-**Improving**
-<br/>One project at a time
-
-</td>
-</tr>
-</table>
-
-## Selected Projects
-
-<table>
-<tr>
-<td width="50%" valign="top" bgcolor="#211B2B">
-
-### Chat-Ai
-
-An experimental chat application exploring AI assistant interactions.
-
-[View project ↗](https://github.com/paunryto-ui/Chat-Ai)
-
-</td>
-<td width="50%" valign="top" bgcolor="#211B2B">
-
-### SaaS-Ai
-
-A playground for experimenting with AI-powered online services.
-
-[View project ↗](https://github.com/paunryto-ui/SaaS-Ai)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" bgcolor="#211B2B">
-
-### WebSite-Builder
-
-A project focused on making website creation simpler and more accessible.
-
-[View project ↗](https://github.com/paunryto-ui/WebSite-Builder)
-
-</td>
-<td width="50%" valign="top" bgcolor="#211B2B">
-
-### apkbuilder
-
-An experiment in packaging HTML projects into Android applications.
-
-[View project ↗](https://github.com/paunryto-ui/apkbuilder)
-
-</td>
-</tr>
-</table>
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,unity,electron,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, C sharp, Unity, Electron, Git, GitHub, and VS Code" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/HTML-EA7186?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-8E6BBE?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-<img src="https://img.shields.io/badge/JavaScript-F4C96B?style=flat-square&logo=javascript&logoColor=292238" alt="JavaScript" />
-<img src="https://img.shields.io/badge/C%23-9B87D5?style=flat-square&logo=csharp&logoColor=white" alt="C sharp" />
-<img src="https://img.shields.io/badge/Unity-51465F?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-<img src="https://img.shields.io/badge/Electron-6CCFC0?style=flat-square&logo=electron&logoColor=17202A" alt="Electron" />
-
-</div>
-
-## GitHub Overview
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=paunryto-ui&show_icons=true&hide_border=true&bg_color=211B2B&title_color=8E6BBE&text_color=F3EAFB&icon_color=6CCFC0" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paunryto-ui&layout=compact&hide_border=true&bg_color=211B2B&title_color=8E6BBE&text_color=F3EAFB" alt="Most-used programming languages" />
-
-</div>
+<h1 align="center">
+  halo, aku Wira
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png" alt="kucing ketawa" width="40" />
+</h1>
 
 <p align="center">
-<sub>GitHub stats are provided by an external service and may occasionally load slowly.</sub>
+  <a href="https://github.com/paunryto-ui">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FF8FAB&center=true&vCenter=true&width=480&height=40&lines=bikin+tools+PC+%26+game+kecil-kecilan;kadang+langsung+jalan;kadang+error+dulu+baru+jalan;ayo+kenalan+~" alt="typing animation" />
+  </a>
 </p>
 
-## Contact
+<!-- kucing pixel: muncul setelah workflow jalan pertama kali -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/main/dist/pet.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/main/dist/pet-light.svg">
+    <img alt="kucing pixel mochi" src="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/main/dist/pet.svg" width="100%">
+  </picture>
+</p>
 
-Have an idea, found a bug, or want to talk about a project? Open an issue in the relevant repository. Clear, constructive feedback is always welcome.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-ff8fab?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/JavaScript-ffb86b?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Batch-8ec5fc?style=for-the-badge&logo=windows&logoColor=white" alt="Batch">
+  <img src="https://img.shields.io/badge/C%23-b794f6?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Unity-4a3548?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/Electron-6ee7b7?style=for-the-badge&logo=electron&logoColor=white" alt="Electron">
+</p>
 
-<div align="center">
+<br>
 
-<a href="https://github.com/paunryto-ui">
-<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-8E6BBE?style=for-the-badge&logo=github&logoColor=white" alt="Visit Wira's GitHub profile" />
-</a>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="28" /> lagi / pernah dikerjain
 
-<br/><br/>
+| repo | cerita singkat |
+|---|---|
+| [**Chat-Ai**](https://github.com/paunryto-ui/Chat-Ai) | ngobrol sama AI versi aku sendiri |
+| [**SaaS-Ai**](https://github.com/paunryto-ui/SaaS-Ai) | eksperimen layanan berbasis AI |
+| [**WebSite-Builder**](https://github.com/paunryto-ui/WebSite-Builder) | bikin website tanpa pusing |
+| [**apkbuilder**](https://github.com/paunryto-ui/apkbuilder) | dari HTML jadi APK |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E6BBE,50:51406F,100:17131F&height=100&section=footer" width="100%" alt="Dark purple footer banner" />
+<sub>repo yang namanya `dfdfd` itu... jangan ditanya ya</sub>
 
-<sub>Built with curiosity, code, and a little late-night energy.</sub>
+<br>
 
-</div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Activities/Party%20Popper.png" width="28" /> trophy
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=paunryto-ui&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="trophy github" />
+  </a>
+</p>
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Green%20Heart.png" width="28" /> statistik
+
+<p align="center">
+  <img height="180" alt="profil" src="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/main/profile-summary-card-output/radical/0-profile-details.svg" />
+  <img height="180" alt="stats" src="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/main/profile-summary-card-output/radical/3-stats.svg" />
+</p>
+<p align="center">
+  <img height="180" alt="repo per bahasa" src="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/main/profile-summary-card-output/radical/1-repos-per-language.svg" />
+  <img height="180" alt="bahasa paling sering di-commit" src="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/main/profile-summary-card-output/radical/2-most-commit-language.svg" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/output/github-snake.svg" />
+    <img alt="snake makan kontribusi" src="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/output/github-snake.svg" />
+  </picture>
+</p>
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="28" /> mau ngobrol / nemu bug?
+
+buka **Issues** di salah satu repo, atau cek email di profil. dibales kok, pelan-pelan.
+
+<p align="center">
+  <sub>
+    kucing pixel by <a href="https://github.com/prsdx/YourTomo">YourTomo</a> ·
+    snake by <a href="https://github.com/Platane/snk">Platane/snk</a> ·
+    kartu by <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">summary-cards</a> ·
+    trophy by <a href="https://github.com/ryo-ma/github-profile-trophy">ryo-ma</a> ·
+    emoji by <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">Animated-Fluent-Emojis</a>
+  </sub>
+</p>

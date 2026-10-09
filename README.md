@@ -1,17 +1,23 @@
 
 <div align="center">
 
-# Wira <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f431/512.gif" width="28" alt="Cat">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f431/512.gif" width="42" alt="Cat">
 
-**Developer · Game Builder · Web Creator**
+# Wira
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=18&pause=1400&color=F7A8C8&center=true&vCenter=true&width=550&height=38&lines=Building+games+and+useful+tools;Turning+ideas+into+working+projects;Learning+by+building+and+experimenting" alt="Animated introduction">
+**Developer · Game Creator · Web Builder**
 
-*Curious by nature. Builder by habit.*
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=18&pause=1500&color=F7A8C8&center=true&vCenter=true&width=540&height=40&lines=Building+games+and+useful+tools;Turning+ideas+into+working+projects;Debugging+is+part+of+the+adventure" alt="Animated introduction">
 
-[GitHub](https://github.com/paunryto-ui) · [Repositories](https://github.com/paunryto-ui?tab=repositories)
+*Curious mind. Creative builds. A little bit of chaos.*
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="420" alt="Loading huh">
+[GitHub Profile](https://github.com/paunryto-ui) · [Repositories](https://github.com/paunryto-ui?tab=repositories)
+
+<br>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="340" alt="Loading huh">
+
+<sub>Loading motivation... please wait.</sub>
 
 </div>
 
@@ -19,14 +25,16 @@
 
 ## About Me
 
-I'm a developer who enjoys building things from scratch, experimenting with new ideas, and learning through practical projects.
+Hey, I'm Wira. I enjoy building software, creating games, and turning ideas into projects I can actually run and test.
+
+I learn by experimenting, solving problems, and improving things along the way.
 
 - **Web development** — websites, interfaces, and web applications
-- **Game development** — gameplay systems and interactive worlds
-- **Tools & utilities** — desktop apps and automation experiments
-- **Current focus** — improving my projects and exploring new technologies
+- **Game development** — gameplay systems, interactive worlds, and prototypes
+- **Tools and utilities** — desktop applications and automation experiments
+- **Current focus** — making better projects and exploring new technologies
 
-I like working across different areas of development, from the first prototype to a working build.
+I believe the best way to learn is to build something, figure out what breaks, and make it better.
 
 ## Projects
 
@@ -40,16 +48,16 @@ I like working across different areas of development, from the first prototype t
 
 An experimental chat application exploring an AI assistant experience.
 
-[View repository](https://github.com/paunryto-ui/Chat-Ai)
+[View repository →](https://github.com/paunryto-ui/Chat-Ai)
 
 </td>
 <td width="50%" valign="top">
 
 ### SaaS-Ai
 
-A playground for ideas around AI-powered online services.
+A project exploring ideas for AI-powered online services.
 
-[View repository](https://github.com/paunryto-ui/SaaS-Ai)
+[View repository →](https://github.com/paunryto-ui/SaaS-Ai)
 
 </td>
 </tr>
@@ -60,7 +68,7 @@ A playground for ideas around AI-powered online services.
 
 A project focused on making website creation more approachable.
 
-[View repository](https://github.com/paunryto-ui/WebSite-Builder)
+[View repository →](https://github.com/paunryto-ui/WebSite-Builder)
 
 </td>
 <td width="50%" valign="top">
@@ -69,7 +77,7 @@ A project focused on making website creation more approachable.
 
 An experiment in packaging HTML projects as Android applications.
 
-[View repository](https://github.com/paunryto-ui/apkbuilder)
+[View repository →](https://github.com/paunryto-ui/apkbuilder)
 
 </td>
 </tr>
@@ -97,46 +105,74 @@ An experiment in packaging HTML projects as Android applications.
 ## Moving Logos
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70" alt="Moving technology logo">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70" alt="Moving technology logo">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70" alt="Moving technology logo">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70" alt="Moving technology logo">
-  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="70" alt="Moving technology logo">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70" alt="Moving technology logo">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="85" alt="Animated logo">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="85" alt="Animated logo">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="85" alt="Animated logo">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="85" alt="Animated logo">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="85" alt="Animated logo">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="85" alt="Animated logo">
+
 </div>
 
-## Work & Coding
+## A Developer's Daily Life
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="420" alt="Curious Tech Geek">
+### 01 — Loading Huh?
 
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="420" alt="Client Vs Designer">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="340" alt="Loading huh">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/58e30265-7dc2-4977-83ab-66d4d1fa6ec3" width="420" alt="Back to Work">
+*Me waiting for my brain to compile.*
+
+<br>
+
+### 02 — Client vs. Designer
+
+<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="340" alt="Client vs Designer">
+
+**Client:** "Can you make it simple?"
+
+**Designer:** "Of course."
+
+**The design:** *adds seventeen more details.*
+
+**Me:** "So... which version am I building?"
+
+<br>
+
+### 03 — Back to Work
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/58e30265-7dc2-4977-83ab-66d4d1fa6ec3" width="340" alt="Back to Work">
+
+*Fixed one bug. Unlocked three more.*
 
 </div>
 
 ## Animated Social Icons
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="90" alt="Animated Discord logo">
-  <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="90" alt="Animated social media icon">
-</div>
 
-<p align="center">
-  <sub>Animated icons only — no external profile links.</sub>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="80" alt="Animated Discord logo">
+<img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="80" alt="Animated social media icon">
+
+<br>
+
+<sub>Animated icons only — no external profile links.</sub>
+
+</div>
 
 ## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=paunryto-ui&show_icons=true&hide_border=true&bg_color=21182F&title_color=F7A8C8&text_color=F3EAFB&icon_color=8E6BBE" alt="GitHub account statistics">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=paunryto-ui&show_icons=true&hide_border=true&bg_color=21182F&title_color=F7A8C8&text_color=F3EAFB&icon_color=8E6BBE" alt="GitHub statistics">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paunryto-ui&layout=compact&hide_border=true&bg_color=21182F&title_color=F7A8C8&text_color=F3EAFB" alt="Most-used languages">
 
 </div>
+
+<sub>Statistics are provided by an external service and may occasionally be unavailable.</sub>
 
 ## Contribution Trail
 
@@ -145,10 +181,12 @@ An experiment in packaging HTML projects as Android applications.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/output/github-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/output/github-snake.svg">
+  <img alt="Snake animation following my GitHub contribution graph" src="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/output/github-snake.svg">
 </picture>
 
 </div>
+
+---
 
 ## Say Hello
 
@@ -156,7 +194,7 @@ Have feedback, found a bug, or want to discuss one of my projects? Open an issue
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7A8C8,50:8E6BBE,100:2D1B45&height=100&section=footer" alt="Pastel footer banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21182F,50:8E6BBE,100:F7A8C8&height=100&section=footer" width="100%" alt="Pastel purple and pink footer">
 
 <sub>Built with curiosity, experiments, and a soft spot for cartoon cats.</sub>
 

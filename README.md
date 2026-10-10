@@ -104,7 +104,6 @@ An experiment in packaging HTML projects as Android applications.
 
 
 
-## Contribution Trail
 
 <div align="center">
 

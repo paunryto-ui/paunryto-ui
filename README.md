@@ -108,16 +108,6 @@ An experiment in packaging HTML projects as Android applications.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/output/github-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/paunryto-ui/paunryto-ui/output/github-snake.svg">
-</picture>
-
-</div>
-
-<div align="center">
-
 <img src="./footer.svg" width="100%" alt="Custom profile footer">
 
 </div>

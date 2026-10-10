@@ -102,64 +102,7 @@ An experiment in packaging HTML projects as Android applications.
 
 </div>
 
-## Moving Logos
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="85" alt="Animated logo">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="85" alt="Animated logo">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="85" alt="Animated logo">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="85" alt="Animated logo">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="85" alt="Animated logo">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="85" alt="Animated logo">
-
-</div>
-
-## A Developer's Daily Life
-
-<div align="center">
-
-### 01. Loading Huh?
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="340" alt="Loading huh">
-
-*Me waiting for my brain to compile.*
-
-<br>
-
-### 02. Client vs. Designer
-
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="340" alt="Client vs Designer">
-
-**Client:** "Can you make it simple?"
-
-**Designer:** "Of course."
-
-**The design:** *adds seventeen more details.*
-
-**Me:** "So... which version am I building?"
-
-<br>
-
-### 03. Back to Work
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/58e30265-7dc2-4977-83ab-66d4d1fa6ec3" width="340" alt="Back to Work">
-
-*Fixed one bug. Unlocked three more.*
-
-</div>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=paunryto-ui&show_icons=true&hide_border=true&bg_color=21182F&title_color=F7A8C8&text_color=F3EAFB&icon_color=8E6BBE" alt="GitHub statistics">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paunryto-ui&layout=compact&hide_border=true&bg_color=21182F&title_color=F7A8C8&text_color=F3EAFB" alt="Most-used languages">
-
-</div>
-
-<sub>Statistics may occasionally be unavailable if the external service is down.</sub>
 
 ## Contribution Trail
 
